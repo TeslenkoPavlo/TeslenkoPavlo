@@ -32,6 +32,8 @@
 
 </div>
 
+---
+
 ## 📈 Activity
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TeslenkoPavlo&bg_color=ffffff&color=000000&line=00ff00&point=000000)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -78,9 +80,13 @@
 <details>
 <summary>📫 How to Contact Me?</summary>
 
+<div align="center">
+
 | 📬 Contact Method | 📧 Contact                         |
 |------------------|-----------------------------------|
 | Email            | [teslenkopasha5@gmail.com](mailto:teslenkopasha5@gmail.com) |
+
+</div>
 
 </details>
 
