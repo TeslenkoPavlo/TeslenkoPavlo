@@ -16,15 +16,15 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=&theme=flat&bg_color=ffffff)](https://github.com/ryo-ma/github-profile-trophy)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=default&bg_color=ffffff)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=&theme=default&bg_color=ffffff)
+[![trophy](https://github-profile-trophy.vercel.app/?username=TeslenkoPavlo&theme=flat&bg_color=ffffff)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TeslenkoPavlo&show_icons=true&theme=default&bg_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TeslenkoPavlo&theme=default&bg_color=ffffff)
 
 </div>
 
 ## 📈 Activity
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=&bg_color=ffffff&color=000000&line=00ff00&point=000000)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TeslenkoPavlo&bg_color=ffffff&color=000000&line=00ff00&point=000000)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
