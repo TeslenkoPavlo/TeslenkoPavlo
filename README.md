@@ -1,13 +1,13 @@
-<img src="" width="100%">
+<img src="https://github.com/TeslenkoPavlo/TeslenkoPavlo/blob/main/other/line.gif" width="100%">
 
-<img src="">
+<img src="https://github.com/TeslenkoPavlo/TeslenkoPavlo/blob/main/other/header.gif">
 
 ---
 
 # Hello! 👋
 
 <div align="center">
-  <img src="" width="50%">
+  <img src="https://github.com/TeslenkoPavlo/TeslenkoPavlo/blob/main/other/mygif.gif" width="50%">
 </div>
 
 ---
@@ -72,6 +72,6 @@
 
 ---
 
-<img src="">
+<img src="https://github.com/TeslenkoPavlo/TeslenkoPavlo/blob/main/other/footer.gif">
 
-<img src="" width="100%">
+<img src="https://github.com/TeslenkoPavlo/TeslenkoPavlo/blob/main/other/line.gif" width="100%">
