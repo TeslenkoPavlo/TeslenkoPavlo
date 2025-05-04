@@ -17,7 +17,17 @@
 <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=TeslenkoPavlo&theme=flat&bg_color=ffffff)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<div align="center">
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TeslenkoPavlo&show_icons=true&theme=default&bg_color=ffffff)
+
+</div>
+
+<div align="center">
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TeslenkoPavlo&theme=default&bg_color=ffffff)
 
 </div>
