@@ -41,11 +41,15 @@
 <details>
 <summary>🎯 Goals</summary>
 
+<div align="center">
+
 | 🎯 Goal                          | ✍️ Description                                          |
 |----------------------------------|--------------------------------------------------------|
 | 📚 Learn New Things              | Study new technologies and tools.                       |
 | 🤝 Share Experience              | Write articles and conduct educational events.          |
 | 🛠️ Develop Professional Skills   | Improve programming and teamwork skills.               |
+
+</div>
 
 </details>
 
