@@ -7,7 +7,25 @@
 # Hello! 👋
 
 <div align="center">
-  <img src="https://github.com/TeslenkoPavlo/TeslenkoPavlo/blob/main/other/mygif.gif" width="50%">
+  ```csharp
+namespace PersonalInfo
+{
+    public class AboutMe
+    {
+        public string FullName { get; set; }
+        public int Age { get; set; }
+        public string City { get; set; }
+        public string Country { get; set; }
+
+        public AboutMe()
+        {
+            FullName = "Teslenko Pavlo";
+            Age = 18;
+            City = "Poltava";
+            Country = "Ukraine";
+        }
+    }
+}```
 </div>
 
 ---
