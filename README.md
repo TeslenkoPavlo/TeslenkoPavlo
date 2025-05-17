@@ -7,7 +7,7 @@
 # Hello! 👋
 
 <div align="center">
-  ```csharp
+  <pre><code class="language-csharp">
 namespace PersonalInfo
 {
     public class AboutMe
@@ -25,7 +25,8 @@ namespace PersonalInfo
             Country = "Ukraine";
         }
     }
-}```
+}
+  </code></pre>
 </div>
 
 ---
