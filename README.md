@@ -6,7 +6,6 @@
 
 # Hello! 👋
 
-<div align="center">
   ```csharp
 namespace PersonalInfo
 {
@@ -26,7 +25,6 @@ namespace PersonalInfo
         }
     }
 }
-</div>
 ```
 
 ---
