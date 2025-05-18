@@ -34,7 +34,12 @@ namespace PersonalInfo
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github-profile-trophy.vercel.app/?username=TeslenkoPavlo&theme=flat&bg_color=ffffff)](https://github.com/ryo-ma/github-profile-trophy" /></td>
+      <td>
+        <img
+          src="https://github-profile-trophy.vercel.app/?username=TeslenkoPavlo&theme=dracula&bg_color=ffffff"
+          alt="GitHub Profile Trophy"
+        />
+      </td>
     </tr>
   </table>
 </div>
@@ -42,11 +47,22 @@ namespace PersonalInfo
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeslenkoPavlo&theme=default&bg_color=ffffff" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=TeslenkoPavlo&show_icons=true&theme=default&bg_color=ffffff" /></td>
+      <td>
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeslenkoPavlo&theme=dracula&bg_color=ffffff"
+          alt="Top Languages"
+        />
+      </td>
+      <td>
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=TeslenkoPavlo&show_icons=true&theme=dracula&bg_color=ffffff"
+          alt="GitHub Stats"
+        />
+      </td>
     </tr>
   </table>
 </div>
+
 
 ---
 
