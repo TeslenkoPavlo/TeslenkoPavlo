@@ -32,12 +32,6 @@ namespace PersonalInfo
 ## 📊 My GitHub Contributions
 
 <div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=TeslenkoPavlo&theme=flat&bg_color=ffffff)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<div align="center">
   <table>
     <tr>
       <td><img src="https://github-profile-trophy.vercel.app/?username=TeslenkoPavlo&theme=flat&bg_color=ffffff)](https://github.com/ryo-ma/github-profile-trophy" /></td>
@@ -54,21 +48,17 @@ namespace PersonalInfo
   </table>
 </div>
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TeslenkoPavlo&show_icons=true&theme=default&bg_color=ffffff)
-
-</div>
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TeslenkoPavlo&theme=default&bg_color=ffffff)
-
-</div>
-
 ---
 
 ## 📈 Activity
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=TeslenkoPavlo&bg_color=ffffff&color=000000&line=00ff00&point=000000)](https://github.com/ashutosh00710/github-readme-activity-graph" /></td>
+    </tr>
+  </table>
+</div>
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TeslenkoPavlo&bg_color=ffffff&color=000000&line=00ff00&point=000000)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
