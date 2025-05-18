@@ -41,6 +41,13 @@ namespace PersonalInfo
   <table>
     <tr>
       <td><img src="https://github-profile-trophy.vercel.app/?username=TeslenkoPavlo&theme=flat&bg_color=ffffff)](https://github.com/ryo-ma/github-profile-trophy" /></td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
       <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeslenkoPavlo&theme=default&bg_color=ffffff" /></td>
       <td><img src="https://github-readme-stats.vercel.app/api?username=TeslenkoPavlo&show_icons=true&theme=default&bg_color=ffffff" /></td>
     </tr>
