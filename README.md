@@ -69,8 +69,8 @@ namespace PersonalInfo
 
 <div align="center">
 
-| ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TeslenkoPavlo&theme=dracula) |
-|:-------------------------------------------------------------------------------------------------:|
+| ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TeslenkoPavlo&bg_color=282a36&line_color=ff79c6&point_color=bd93f9) |
+|:----------------------------------------------------------------------------------------------------------------------------:|
 
 </div>
 
