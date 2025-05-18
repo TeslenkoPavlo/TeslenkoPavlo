@@ -52,9 +52,8 @@ namespace PersonalInfo
 
 ## 📈 Activity
 
-| |                                                                                                   |
-|-----------------------|---------------------------------------------------------------------------------------------------|
-| | [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TeslenkoPavlo&bg_color=ffffff&color=000000&line=00ff00&point=000000)](https://github.com/ashutosh00710/github-readme-activity-graph) |
+
+ | [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TeslenkoPavlo&bg_color=ffffff&color=000000&line=00ff00&point=000000)](https://github.com/ashutosh00710/github-readme-activity-graph) |
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TeslenkoPavlo&bg_color=ffffff&color=000000&line=00ff00&point=000000)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
