@@ -48,14 +48,12 @@ namespace PersonalInfo
   <table>
     <tr>
       <td>
-        <!-- Top Languages с Dracula, без белого фона -->
         <img
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeslenkoPavlo&theme=dracula"
           alt="Top Languages"
         />
       </td>
       <td>
-        <!-- GitHub Stats с Dracula, без белого фона -->
         <img
           src="https://github-readme-stats.vercel.app/api?username=TeslenkoPavlo&show_icons=true&theme=dracula"
           alt="GitHub Stats"
@@ -71,8 +69,8 @@ namespace PersonalInfo
 
 <div align="center">
 
-| ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TeslenkoPavlo&bg_color=ffffff&color=000000&line=00ff00&point=000000) |
-|:-------------------------------------------------------------------------------------------------------------:|
+| ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TeslenkoPavlo&theme=dracula) |
+|:-------------------------------------------------------------------------------------------------:|
 
 </div>
 
