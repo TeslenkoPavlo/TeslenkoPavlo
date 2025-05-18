@@ -32,14 +32,19 @@ namespace PersonalInfo
 ## 📊 My GitHub Contributions
 
 <div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=TeslenkoPavlo&theme=flat&bg_color=ffffff)](https://github.com/ryo-ma/github-profile-trophy)
-
+  <table>
+    <tr>
+      <td>
+        [![Trophy](https://github-profile-trophy.vercel.app/?username=TeslenkoPavlo&theme=flat&bg_color=ffffff )](https://github.com/ryo-ma/github-profile-trophy )
+      </td>
+      <td>
+        [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TeslenkoPavlo&theme=default&bg_color=ffffff )](https://github.com/anuraghazra/github-readme-stats )
+      </td>
+    </tr>
+  </table>
 </div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TeslenkoPavlo&show_icons=true&theme=default&bg_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TeslenkoPavlo&theme=default&bg_color=ffffff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TeslenkoPavlo&show_icons=true&theme=default&bg_color=ffffff )**
 
 ---
 
