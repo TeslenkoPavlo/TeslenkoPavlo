@@ -37,17 +37,9 @@ namespace PersonalInfo
 
 </div>
 
-<div align="center">
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TeslenkoPavlo&show_icons=true&theme=default&bg_color=ffffff)
 
-</div>
-
-<div align="center">
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TeslenkoPavlo&theme=default&bg_color=ffffff)
-
-</div>
 
 ---
 
