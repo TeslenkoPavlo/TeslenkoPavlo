@@ -55,7 +55,7 @@ namespace PersonalInfo
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=TeslenkoPavlo&bg_color=ffffff&color=000000&line=00ff00&point=000000)](https://github.com/ashutosh00710/github-readme-activity-graph" /></td>
+      <img src="https://github-readme-activity-graph.cyclic.app/graph?username=TeslenkoPavlo&bg_color=ffffff&color=000000&line=00ff00&point=000000&area=true&area_color=00ff00 " />
     </tr>
   </table>
 </div>
