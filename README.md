@@ -2,12 +2,34 @@
 
 <img src="https://github.com/TeslenkoPavlo/TeslenkoPavlo/blob/main/other/header.gif">
 
-  ```ts
-export class AboutMe {
-    fullName: string = "Teslenko Pavlo";
-    age: number = 19;
-    city: string = "Poltava";
-    country: string = "Ukraine";
+ ```ts
+export class Pavlo {
+  readonly mindset: string = "Continuous Improvement";
+  
+  softSkills: string[] = [
+    "Effective Communication", 
+    "Analytical Problem-Solving", 
+    "Fast Adaptability"
+  ];
+
+  /**
+   * @description My current professional state
+   */
+  public async initializeCareer(): Promise<string> {
+    return new Promise((resolve) => {
+      // Logic: I don't just wait for results, I build them
+      const potential = "High-quality code + proactive learning";
+      
+      setTimeout(() => {
+        resolve(`Ready to deliver value as a Full-Stack Engineer. ${potential}`);
+      }, 0); 
+    });
+  }
+
+  handleChallenge(issue: string): void {
+    // My approach: Analyze -> Collaborate -> Resolve -> Document
+    this.analyze(issue).solve().shareKnowledge();
+  }
 }
 ```
 
