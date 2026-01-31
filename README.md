@@ -25,17 +25,13 @@ export class AboutMe {
 
 <div align="center">
 
-|  Goal                          | Description                                          |
-|----------------------------------|--------------------------------------------------------|
-| Professional Mastery              | Constantly evolving to become the ultimate master of my craft by mastering advanced tools and technologies.                       |
+$\color{#bd93f9}{\textit{\textbf{Goal}}}$<br>
+Constantly evolving to become the ultimate master of my craft<br>by mastering advanced tools and technologies.
 
-</div>
+<br>
 
-<div align="center">
-
-| Contact Method | Contact                         |
-|------------------|-----------------------------------|
-| Email            | [teslenkopasha5@gmail.com](mailto:teslenkopasha5@gmail.com) |
+$\color{#bd93f9}{\textit{\textbf{Email}}}$<br>
+[teslenkopasha5@gmail.com](mailto:teslenkopasha5@gmail.com)
 
 </div>
 
