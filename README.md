@@ -27,9 +27,7 @@ export class AboutMe {
 
 $\color{#bd93f9}{\textit{\textbf{Goal}}}$<br>
 Constantly evolving to become the ultimate master of my craft<br>by mastering advanced tools and technologies.
-
-<br>
-
+<br><br>
 $\color{#bd93f9}{\textit{\textbf{Email}}}$<br>
 [teslenkopasha5@gmail.com](mailto:teslenkopasha5@gmail.com)
 
