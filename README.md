@@ -4,10 +4,10 @@
 
   ```ts
 export class AboutMe {
-  fullName: string = "Teslenko Pavlo";
-  age: number = 19;
-  city: string = "Poltava";
-  country: string = "Ukraine";
+    fullName: string = "Teslenko Pavlo";
+    age: number = 19;
+    city: string = "Poltava";
+    country: string = "Ukraine";
 }
 ```
 
