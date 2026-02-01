@@ -53,7 +53,7 @@ Constantly evolving to become the ultimate master of my craft by mastering advan
 
 $\color{#bd93f9}{\textit{\textbf{Email}}}$
 
-[teslenkopasha5@gmail.com](mailto:teslenkopasha5@gmail.com)
+<a href="mailto:teslenkopasha5@gmail.com">teslenkopasha5@gmail.com</a>
 
 </div>
 
