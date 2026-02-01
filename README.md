@@ -47,10 +47,12 @@ export class Pavlo {
 
 <div align="center">
 
-$\color{#bd93f9}{\textit{\textbf{Goal}}}$<br>
-Constantly evolving to become the ultimate master of my craft<br>by mastering advanced tools and technologies.
-<br><br>
-$\color{#bd93f9}{\textit{\textbf{Email}}}$<br>
+$\color{#bd93f9}{\textit{\textbf{Goal}}}$
+
+Constantly evolving to become the ultimate master of my craft by mastering advanced tools and technologies.
+
+$\color{#bd93f9}{\textit{\textbf{Email}}}$
+
 [teslenkopasha5@gmail.com](mailto:teslenkopasha5@gmail.com)
 
 </div>
