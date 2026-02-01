@@ -45,17 +45,17 @@ export class Pavlo {
   </a>
 </p>
 
-<div align="center">
+<p align="center">
+  $\color{#bd93f9}{\textit{\textbf{Goal}}}$
+  <br>
+  Constantly evolving to become the ultimate master of my craft by mastering advanced tools and technologies.
+</p>
 
-$\color{#bd93f9}{\textit{\textbf{Goal}}}$
-
-Constantly evolving to become the ultimate master of my craft by mastering advanced tools and technologies.
-
-$\color{#bd93f9}{\textit{\textbf{Email}}}$
-
-<a href="mailto:teslenkopasha5@gmail.com">teslenkopasha5@gmail.com</a>
-
-</div>
+<p align="center">
+  $\color{#bd93f9}{\textit{\textbf{Email}}}$
+  <br>
+  <a href="mailto:teslenkopasha5@gmail.com">teslenkopasha5@gmail.com</a>
+</p>
 
 <img src="https://github.com/TeslenkoPavlo/TeslenkoPavlo/blob/main/other/footer.gif">
 
