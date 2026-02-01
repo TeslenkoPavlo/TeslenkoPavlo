@@ -54,7 +54,7 @@ export class Pavlo {
 <p align="center">
   $\color{#bd93f9}{\textit{\textbf{Email}}}$
   <br>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=teslenkopasha5@gmail.com" target="_blank">teslenkopasha5@gmail.com</a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=teslenkopasha5@gmail.com">teslenkopasha5@gmail.com</a>
 </p>
 
 <img src="https://github.com/TeslenkoPavlo/TeslenkoPavlo/blob/main/other/footer.gif">
